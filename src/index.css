@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+@font-face {
+    font-family: IranYekan;
+    src: url(../public/fonts/IRANYekanRegular\ [@ClubEdits].ttf);
+  }
